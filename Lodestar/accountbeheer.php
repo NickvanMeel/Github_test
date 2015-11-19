@@ -2,7 +2,7 @@
             include 'core/init.php'; 
             protected_page();
             $user_type = $user_data['type'];
-            admin_only($user_type);
+            //admin_only($user_type);
         ?> 
 <!DOCTYPE html>
 <html>
