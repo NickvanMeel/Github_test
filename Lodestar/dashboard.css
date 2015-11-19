@@ -1,0 +1,247 @@
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+}
+
+#Container {
+    float: left;
+    height: 513px;
+    margin-left: 14.668929%;
+    margin-top: 0px;
+    clear: both;
+    width: 70.665581%;
+}
+
+#Header {
+    float: left;
+    height: 75px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-width: 0px;
+    background-color: rgb(0, 92, 137);
+}
+
+#logo {
+    float: left;
+    width: 47.75px;
+    max-width: none;
+    height: 47.78125px;
+    margin-left: 48.248349%;
+    margin-top: 14px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+}
+
+#text {
+    float: left;
+    font-size: 1em;
+    /* width: 6.969919%; */
+    height: auto;
+    text-align: right;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 21.635409%;
+    margin-top: 30px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    font-family: open-sans;
+    margin-right: 0px;
+}
+
+#text4 {
+    float: left;
+    font-size: 12px;
+    width: 12.004607%;
+    height: auto;
+    text-align: left;
+    font-weight: 600;
+    line-height: 16px;
+    margin-left: 0%;
+    margin-top: 17px;
+    clear: both;
+    min-height: 22px;
+    color: rgb(43, 43, 43);
+    border-bottom-color: rgb(0, 92, 137);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    font-family: open-sans;
+}
+
+#text5 {
+    float: left;
+    font-size: 12px;
+    width: 12.004607%;
+    height: auto;
+    text-align: left;
+    font-weight: 600;
+    line-height: 16px;
+    margin-left: -0.00324449%;
+    margin-top: 17px;
+    clear: left;
+    min-height: 22px;
+    color: rgb(43, 43, 43);
+    border-bottom-color: rgb(0, 92, 137);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    display: block;
+    margin-right: 0%;
+    font-family: open-sans;
+}
+
+#Content {
+    float: none;
+    min-height: 420px;
+    margin-left: 15.463232%;
+    margin-top: 80px;
+    padding-bottom: 70px;
+    clear: none;
+    width: 84.535146%;
+    margin-right: 0px;
+}
+
+#text6 {
+    float: none;
+    font-size: 12px;
+    width: 100%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    min-height: 72px;
+    margin-right: 0px;
+    font-family: open-sans;
+}
+
+#Footer {
+    float: left;
+    height: 50px;
+    clear: both;
+    width: 100%;
+    min-width: 0px;
+    background-color: rgb(43, 43, 43);
+    position: fixed;
+    top: auto;
+    left: 0%;
+    bottom: 0px;
+}
+
+#text7 {
+    float: none;
+    font-size: 12px;
+    width: 57.666911%;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: auto;
+    margin-top: 21px;
+    clear: none;
+    min-height: 18px;
+    color: rgb(255, 255, 255);
+    margin-right: auto;
+}
+
+#text5:hover {
+    border-bottom-color: rgb(43, 43, 43);
+    border-bottom-width: 2px;
+}
+
+#text4:hover {
+    border-bottom-color: rgb(43, 43, 43);
+    border-bottom-width: 2px;
+}
+
+#text3:hover {
+    border-bottom-color: rgb(43, 43, 43);
+    border-bottom-width: 2px;
+}
+
+#text3 {
+    float: left;
+    font-size: 12px;
+    width: 12.004607%;
+    height: auto;
+    text-align: left;
+    font-weight: 600;
+    line-height: 16px;
+    margin-left: -0.04217835%;
+    margin-top: 41px;
+    clear: none;
+    min-height: 22px;
+    color: rgb(43, 43, 43);
+    border-bottom-color: rgb(0, 92, 137);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    display: block;
+    margin-right: 0%;
+    font-family: open-sans;
+}
+
+#textspan {
+    float: none;
+    font-size: 1em;
+    line-height: 1em;
+    font-weight: 600;
+}
+
+#text2 {
+    float: right;
+    font-size: 20px;
+    width: 84.536768%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0px;
+    margin-top: 40px;
+    clear: none;
+    min-height: 23px;
+    color: rgb(43, 43, 43);
+    margin-right: 0%;
+    font-family: open-sans;
+}
+
+#textspan1 {
+    float: none;
+    font-size: 1em;
+    line-height: 1em;
+    color: rgb(136, 136, 136);
+}
+
+#text1 {
+    float: none;
+    font-size: 1em;
+    width: 57.999997969999995px;
+    height: auto;
+    text-align: right;
+    font-weight: 300;
+    line-height: 1em;
+    margin-left: 80.923285%;
+    margin-top: 29px;
+    clear: none;
+    min-height: 16px;
+    color: rgb(204, 238, 255);
+    font-family: open-sans;
+    display: block;
+    margin-right: 0px;
+    text-decoration: underline;
+}
+
+#text1:hover {
+    color: rgb(255, 255, 255);
+}
+
+#Content > table{
+    float: none;
+    display: block;
+}
